@@ -1,0 +1,7 @@
+E:\Unity Project\Unity3DDemo\New Unity Project\Assets\Scripts\PracticeDemo\Practice1\bin\Debug\Practice1.exe.config
+E:\Unity Project\Unity3DDemo\New Unity Project\Assets\Scripts\PracticeDemo\Practice1\bin\Debug\Practice1.exe
+E:\Unity Project\Unity3DDemo\New Unity Project\Assets\Scripts\PracticeDemo\Practice1\bin\Debug\Practice1.pdb
+E:\Unity Project\Unity3DDemo\New Unity Project\Assets\Scripts\PracticeDemo\Practice1\obj\Debug\Practice1.csproj.AssemblyReference.cache
+E:\Unity Project\Unity3DDemo\New Unity Project\Assets\Scripts\PracticeDemo\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+E:\Unity Project\Unity3DDemo\New Unity Project\Assets\Scripts\PracticeDemo\Practice1\obj\Debug\Practice1.exe
+E:\Unity Project\Unity3DDemo\New Unity Project\Assets\Scripts\PracticeDemo\Practice1\obj\Debug\Practice1.pdb
